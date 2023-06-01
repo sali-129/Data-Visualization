@@ -7,6 +7,9 @@ This repository contains all my data visualizations. If you just want to view th
 
 **World Visualization:** https://public.tableau.com/app/profile/shakeel.ali3390/viz/BUSAN301_Data/Dashboard1
 
+**Cost of Living, Homicide and Tourism:** https://public.tableau.com/app/profile/shakeel.ali3390/viz/BUSAN300Project/Dashboard2
+
+
 
 
 
