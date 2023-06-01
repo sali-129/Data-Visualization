@@ -3,3 +3,10 @@ This repository contains all my data visualizations. If you just want to view th
 
 **COVID-19 Visualization:** https://public.tableau.com/app/profile/shakeel.ali3390/viz/ProjectVersion4FinalFinal-Copy/Dashboard1
 
+**Skin Cancer Visualization:** https://public.tableau.com/app/profile/shakeel.ali3390/viz/GroupInfoD4/Dashboard1
+
+**World Visualization:** https://public.tableau.com/app/profile/shakeel.ali3390/viz/BUSAN301_Data/Dashboard1
+
+
+
+
