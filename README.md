@@ -1,5 +1,5 @@
 # Data-Visualization
-Link the Link to View All Visualizations
+Click the links to view the visualization
 
 **COVID-19 Visualization:** https://public.tableau.com/app/profile/shakeel.ali3390/viz/ProjectVersion4FinalFinal-Copy/Dashboard1
 
